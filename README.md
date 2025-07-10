@@ -1,12 +1,9 @@
 # Francisco Valdés Flores
 **Desarrollador de Software**
 
-- 📍 Viña del Mar, Chile
-- ✉️ ecodisonante@gmail.com   
-- 📱 +56 9 65479478  
-- 🔗 [linkedin.com/in/ecodisonante](https://linkedin.com/in/ecodisonante)  
-- 💻 [github.com/ecodisonante](https://github.com/ecodisonante)
-
+📍 Viña del Mar, Chile  
+✉️ ecodisonante@gmail.com | 📱 [+56 9 65479478](https://wa.me/56965479478)  
+🔗 [LinkedIn](https://linkedin.com/in/ecodisonante) · [GitHub](https://github.com/ecodisonante)
 
 ---
 
